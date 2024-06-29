@@ -1,0 +1,46 @@
+Diversidad de Pokémon en los Equipos por Época: Un gráfico que muestre la cantidad de Pokémon
+ distintos que aparecen en los equipos de cada época. Esto podría proporcionar información
+  sobre la diversidad de Pokémon en los equipos a lo largo del tiempo.
+
+Evolución de la Aptitud a lo largo de las Épocas: Un gráfico que muestre cómo cambia la
+ aptitud del mejor equipo encontrado en cada época. Esto puede ayudar a visualizar cómo
+  el algoritmo genético mejora la calidad de los equipos con el tiempo.
+
+Distribución de Pokémon en los Equipos en la última Época: Un gráfico de barras o un 
+“pie chart” que muestre la distribución de los Pokémon en los equipos de la última 
+época. Esto podría proporcionar información sobre la diversidad de Pokémon en los 
+equipos finales.
+
+
+Distribución de Tipos de Pokémon en los Equipos en la última Época: Un gráfico de barras
+ o un “pie chart” que muestre la distribución de los tipos de Pokémon en los equipos de
+  la última época. Esto podría proporcionar información sobre la diversidad de tipos de 
+  Pokémon en los equipos finales.
+
+
+Distribución de Tipos de Pokémon en los Equipos por Época: Un gráfico de lineas o un 
+“stacked area plot” que muestre la distribución de los tipos de Pokémon en los equipos 
+de cada época. Esto podría proporcionar información sobre la diversidad de tipos de
+ Pokémon en los equipos a lo largo del tiempo.
+
+Colores de tipos
+
+Los colores de los tipos de Pokémon pueden ser los mismos que los de los juegos de Pokémon que son los siguientes:
+
+TYPES = ['normal', 'fire', 'water', 'electric', 'grass', 'ice', 'fighting', 'poison', 'ground', 'flying', 'psychic', 'bug', 'rock', 'ghost', 'dragon', 'dark', 'steel', 'fairy']
+TYPES_COLORS = ['#A8A77A', '#EE8130', '#6390F0', '#F7D02C', '#7AC74C', '#96D9D6', '#C22E28', '#A33EA1', '#E2BF65', '#A98FF3', '#F95587', '#A6B91A', '#B6A136', '#735797', '#6F35FC', '#705746', '#B7B7CE', '#D685AD']
+Estas dos listas están definidas en el archivo pokemon.py que se encuentra en el archivo ZIP de utilidades.
+
+Estadísticas del mejor equipo encontrado: Un gráfico que muestre las estadísticas 
+de los Pokémon en el mejor equipo encontrado por el algoritmo genético. Esto podría
+ ayudar a visualizar las fortalezas y debilidades del equipo final. Se podría usar
+  un gráfico de barras o un “radar chart” para este propósito.
+
+
+Mejor equipo encontrado: Puede mostrar las imágenes de los Pokémon que componen el mejor
+ equipo encontrado. Mostrando sus nombres y tipos.
+
+Por ejemplo:
+
+Best Team
+
